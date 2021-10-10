@@ -1,0 +1,187 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+
+
+
+header{
+    position: sticky;
+    top:0;
+    background-color: white;
+    padding: 0 5px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+
+.navebar{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    justify-content: space-around;
+    
+} 
+
+
+
+.navebar li {
+font-weight: 550;
+font-size: 14px;
+margin: 23px 0;
+padding: 0px 13px;
+
+}
+
+
+
+.imge1{
+    width: 40px;
+    height: 40px;
+    margin-left: 50px;
+}
+
+
+main{
+    padding: 0 40px;
+}
+
+
+
+.h4{
+    display: flex;
+    justify-content: space-around;
+    color: burlywood;
+}
+
+
+
+h1{
+    color: darkolivegreen;
+    margin-top:20px ;
+}
+
+
+
+.projet2{
+    display: flex;
+    justify-content: space-around;   
+}
+
+
+
+.hot{
+    color: darkseagreen;
+    margin-top: 30px;
+}
+
+
+
+.mariem{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+
+
+.mariem button{
+    border-radius: 20px;
+    font-weight: 550;
+    margin: 23px 0;
+    padding: 0px 13px;
+    background-color: darkseagreen;
+    font-size: larger;
+    width: 300px;
+    height: 400px;
+}
+
+
+
+.youssef{
+    background-color: #e5faf8 ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px 16px;
+   
+    
+}
+
+
+
+h3{
+    color: darkslategray;
+    font-size: xx-large;
+}
+
+
+select{
+    background-color:#CAF6D6 ;
+    font-weight: 550;
+    font-size: 14px;
+    margin: 23px 0;
+    padding: 0px 13px;
+
+}
+
+
+
+.you{
+        display: flex;
+        justify-content: space-between;
+        color: crimson;
+
+}
+
+
+.rr{
+    margin-top: 40px;
+  
+}
+
+
+
+.popo{
+    color: #00b39b;
+   
+}
+.ii{
+    margin-top: 100px;
+}
+
+
+
+.pipip{
+    font-weight: 550;
+    font-size: 14px;
+    margin: 23px 0;
+    padding: 0px 13px;
+}
+
+
+
+.hlz{
+    width: 300px;
+    height: 50px;
+    background-color: #1662c6;
+    color: beige;
+    font-family: Roboto,Arial,sans-serif;
+    border-radius: 4px;
+}
+
+
+
+.dd{
+    margin-top: 100px;
+}
+
+
+
+.hhh{
+    margin-top: 300px;
+    position: relative;
+    font-size: 12px;
+}
